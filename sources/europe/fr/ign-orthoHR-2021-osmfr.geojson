@@ -1,8 +1,8 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "fr.orthohr.2021",
-        "name": "Ortho HR 2021",
+        "id": "fr.ign.orthohr.2021_osmfr",
+        "name": "Ortho HR IGN 2021 (20 cm) via OSM France",
         "type": "tms",
         "default": false,
         "url": "https://wms.openstreetmap.fr/tms/1.0.0/orthohr_2021/{zoom}/{x}/{y}",
@@ -11,7 +11,7 @@
         "end_date": "2021",
         "attribution": {
             "text": "IGN",
-            "url": "https://geoservices.ign.fr/documentation/donnees/ortho/bdortho",
+            "url": "https://geoservices.ign.fr/bdortho",
             "required": true
         },
         "country_code": "FR",

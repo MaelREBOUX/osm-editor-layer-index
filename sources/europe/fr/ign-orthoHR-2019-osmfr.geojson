@@ -1,8 +1,8 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "fr.orthohr.2019",
-        "name": "Ortho HR 2019",
+        "id": "fr.ign.orthohr.2019_osmfr",
+        "name": "Ortho HR IGN 2019 (20 cm) via OSM France",
         "type": "tms",
         "default": false,
         "url": "https://wms.openstreetmap.fr/tms/1.0.0/orthohr_2019/{zoom}/{x}/{y}",
@@ -11,7 +11,7 @@
         "end_date": "2019",
         "attribution": {
             "text": "IGN",
-            "url": "https://geoservices.ign.fr/documentation/diffusion/documentation-offre.html#bdortho_orthohr",
+            "url": "https://geoservices.ign.fr/bdortho",
             "required": true
         },
         "country_code": "FR",

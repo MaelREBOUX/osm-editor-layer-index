@@ -1,8 +1,8 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "fr.orthohr.2017.antilles",
-        "name": "Ortho HR 2017 Antilles",
+        "id": "fr.ign.orthohr.2017.antilles_osmfr",
+        "name": Ortho HR IGN 2017 Antilles (20 cm) via OSM France",
         "type": "tms",
         "default": false,
         "url": "https://wms.openstreetmap.fr/tms/1.0.0/orthohr_2017_antilles/{zoom}/{x}/{y}",
@@ -11,7 +11,7 @@
         "end_date": "2017",
         "attribution": {
             "text": "IGN",
-            "url": "https://geoservices.ign.fr/documentation/diffusion/documentation-offre.html#bdortho_orthohr",
+            "url": "https://geoservices.ign.fr/bdortho",
             "required": true
         },
         "country_code": "FR",

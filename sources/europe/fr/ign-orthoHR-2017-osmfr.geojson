@@ -1,8 +1,8 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "fr.orthohr.2017",
-        "name": "Ortho HR 2017",
+        "id": "fr.ign.orthohr.2017_osmfr",
+        "name": "Ortho HR IGN 2017 (20 cm) via OSM France",
         "type": "tms",
         "url": "https://wms.openstreetmap.fr/tms/1.0.0/orthohr_2017/{zoom}/{x}/{y}",
         "category": "historicphoto",
@@ -11,7 +11,7 @@
         "country_code": "FR",
         "attribution": {
             "text": "IGN",
-            "url": "https://geoservices.ign.fr/documentation/diffusion/documentation-offre.html#bdortho_orthohr",
+            "url": "https://geoservices.ign.fr/bdortho",
             "required": true
         },
         "max_zoom": 21,
